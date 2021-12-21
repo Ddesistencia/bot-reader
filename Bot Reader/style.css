@@ -1,0 +1,9 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.8.10/tailwind.min.css);
+
+body{
+    background-color: #696969;
+}
+
+.border{
+    border-width: 2px;
+}
